@@ -1,7 +1,14 @@
 # webscrape
-simple python web scraper. 
-Goal - 
-  input: input keyword, website, minimum number of times keyword should be mentioned in each article 
-  result: download articles related to the keyword and the website with the specific keywords mentioned. 
+simple python web scraper. Work in progress. 
 
-Work in progress. 
+
+Goals: 
+
+  input: keyword, website url
+
+  result: download articles related to the keyword in the website with the specific keywords mentioned. 
+
+
+Update list: 
+
+* May 18th - initialization, no uploaded files other than README
