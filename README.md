@@ -12,3 +12,4 @@ Goals:
 Update list: 
 
 * May 18th - initialization, no uploaded files other than README
+* May 28th - Committed the current code I have, unfinished and def not complete enough to run right now
